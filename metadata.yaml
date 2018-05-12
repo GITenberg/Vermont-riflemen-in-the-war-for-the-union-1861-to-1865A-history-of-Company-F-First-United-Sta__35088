@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '37451'
     url: http://www.gutenberg.org/2009/agents/37451
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35088#Vermont-riflemen-in-the-war-for-the-union-1861-to-1865A-history-of-Company-F-First-United-Sta_
 gutenberg_issued: '2011-01-26'
 gutenberg_type: Text
 identifiers:
