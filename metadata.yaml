@@ -1,0 +1,29 @@
+_repo: Vermont-riflemen-in-the-war-for-the-union-1861-to-1865A-history-of-Company-F-First-United-Sta__35088
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ripley, William Young Warren
+    alias: Ripley, William Y. W.
+    birthdate: 1832
+    gutenberg_agent_id: '37451'
+    url: http://www.gutenberg.org/2009/agents/37451
+description: ''
+gutenberg_issued: '2011-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35088'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Sharpshooters Regiment, 1st (1861-1864). Company F'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcc 'E456'
+title: 'Vermont riflemen in the war for the union, 1861 to 1865
+
+  A history of Company F, First United States sharp shooters'
+url: http://www.gutenberg.org/ebooks/35088
